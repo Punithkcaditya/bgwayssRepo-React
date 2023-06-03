@@ -1,0 +1,30 @@
+for add ticket screen
+
+        heading_title_Request_for_suppor
+        title_request
+        enter_title_request
+        title_description
+        enter_description
+        title_request_photo
+
+//for table or show ticker list
+
+        heading_title_your_support_ticket
+        list_title
+        txt_status
+        txt_creat_date
+        txt_action
+
+
+//for txt_actio
+
+              heading_support_ticket_details
+              title_add_comment
+              txt_history
+              txt_added_date
+              
+
+        
+        
+
+         

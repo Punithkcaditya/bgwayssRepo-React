@@ -1,0 +1,55 @@
+/*Mobile view Responsive css start*/
+@media screen and (max-width: 574px) and (min-width: 300px) {
+	a.navbar-brand .logo {width: 130px;}
+	section.booking {padding: 2rem 0rem;padding-bottom: 6rem;}
+	section.booking a.btn {margin-top: 15px;}
+	section.booking .col-sm-3{margin-bottom: 20px;}
+	section.footer {padding: 2rem 0rem;}
+	section.footer .mobile {width: 75%;margin-top: -80px;margin-bottom: 20px;}
+	.carousel-caption h3 {font-size: 14px;}
+	.carousel-caption {padding: 10px 15px;top: 11%}
+	.carousel-caption a {padding: 5px;font-size: 11px;}
+	.bottom-logoposition {margin-top: 0;}
+	.navbar-light.sticky .navbar-brand {position: absolute;right: 15px;top: 26px;}
+	.navbar-light.sticky.is-sticky  .navbar-brand {position: absolute;right: 15px;top: 6px;}
+	.jumbotron {font-size: 14px;}
+	section.footer {background: #ec5f65;}
+}
+@media screen and (max-width: 991px) and (min-width: 575px) {
+	section.footer .mobile {width: 75%;margin-top: -120px;margin-bottom: 0px;}
+	section.booking a.btn {width: 100%;}s
+	section.footer {padding-bottom: 0;}
+	section.booking {padding: 3rem 0rem;padding-bottom: 6rem;}
+	.carousel-caption h3 {font-size: 18px;}
+	.carousel-caption {padding: 30px 30px;top: 9%}
+	.carousel-caption a {padding: 5px;font-size: 11px;}
+	section.footer {padding-bottom: 0;}
+	.bottom-logoposition {margin-top: -67px;}
+	.navbar-light.sticky .navbar-brand {position: absolute;right: 15px;top: 18px;}
+	.navbar-light.sticky.is-sticky  .navbar-brand {position: absolute;right: 15px;top: 1px;}
+}
+@media screen and (max-width: 360px) and (min-width: 300px) {
+	.carousel-caption h3 {font-size: 10px;}
+	.carousel-caption {padding: 10px 15px;top: 7%}
+	.carousel-caption a {padding: 5px;font-size: 11px;}
+	section.footer .mobile {width: 75%;}
+}
+@media screen and (max-width: 375px) and (min-width: 361px) {
+	.carousel-caption h3 {font-size: 13px;}
+	.carousel-caption {padding: 10px 15px;top: 8%}
+	.carousel-caption a {padding: 5px;font-size: 11px;}
+	section.footer .mobile {width: 75%;}
+}
+@media screen and (max-width: 411px) and (min-width: 376px) {
+	.carousel-caption h3 {font-size: 13px;}
+	.carousel-caption {padding: 10px 15px;top: 11%}
+	.carousel-caption a {padding: 5px;font-size: 11px;}
+	section.footer .mobile {width: 24%;}
+}
+@media screen and (max-width: 414px) and (min-width: 378px) {
+	.carousel-caption h3 {font-size: 13px;}
+	.carousel-caption {padding: 10px 15px;top: 12%}
+	.carousel-caption a {padding: 5px;font-size: 11px;}
+	section.footer .mobile {width: 75%;}
+}
+/*Mobile view Responsive css start*/
